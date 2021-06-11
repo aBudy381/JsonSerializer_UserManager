@@ -1,0 +1,12 @@
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\bin\Debug\netcoreapp2.1\projettp3console.deps.json
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\bin\Debug\netcoreapp2.1\projettp3console.runtimeconfig.json
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\bin\Debug\netcoreapp2.1\projettp3console.runtimeconfig.dev.json
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\bin\Debug\netcoreapp2.1\projettp3console.dll
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\bin\Debug\netcoreapp2.1\projettp3console.pdb
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\obj\Debug\netcoreapp2.1\projettp3console.csprojAssemblyReference.cache
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\obj\Debug\netcoreapp2.1\projettp3console.AssemblyInfoInputs.cache
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\obj\Debug\netcoreapp2.1\projettp3console.AssemblyInfo.cs
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\obj\Debug\netcoreapp2.1\projettp3console.csproj.CoreCompileInputs.cache
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\obj\Debug\netcoreapp2.1\projettp3console.dll
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\obj\Debug\netcoreapp2.1\projettp3console.pdb
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\obj\Debug\netcoreapp2.1\projettp3console.genruntimeconfig.cache

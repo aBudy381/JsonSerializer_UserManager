@@ -1,0 +1,12 @@
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\bin\Debug\netcoreapp2.1\UserManager.deps.json
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\bin\Debug\netcoreapp2.1\UserManager.runtimeconfig.json
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\bin\Debug\netcoreapp2.1\UserManager.runtimeconfig.dev.json
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\bin\Debug\netcoreapp2.1\UserManager.dll
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\bin\Debug\netcoreapp2.1\UserManager.pdb
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\obj\Debug\netcoreapp2.1\UserManager.csprojAssemblyReference.cache
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\obj\Debug\netcoreapp2.1\UserManager.AssemblyInfoInputs.cache
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\obj\Debug\netcoreapp2.1\UserManager.AssemblyInfo.cs
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\obj\Debug\netcoreapp2.1\UserManager.csproj.CoreCompileInputs.cache
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\obj\Debug\netcoreapp2.1\UserManager.dll
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\obj\Debug\netcoreapp2.1\UserManager.pdb
+C:\Users\assala\source\repos\C#\daouser\daouser\ConsoleApp1\obj\Debug\netcoreapp2.1\UserManager.genruntimeconfig.cache
